@@ -9,14 +9,16 @@ I wanted to simply add buzzers at first but I thought of making some sort of mus
 ## IMAGE
 ---
 ### schematic and pcb
-<img width="926" height="738" alt="image" src="https://github.com/user-attachments/assets/fd7587fd-c671-4ff1-af08-7fe8223a4fab" />
+<img width="808" height="785" alt="image" src="https://github.com/user-attachments/assets/5f5b3ffe-6072-4ec5-b317-4e562e9dc8fc" />
+
 <img width="1199" height="702" alt="image" src="https://github.com/user-attachments/assets/832fa2b5-414e-421c-af84-65c1d1364f77" />
 
 ### case
 <img width="698" height="640" alt="image" src="https://github.com/user-attachments/assets/fdce57d9-3c1f-4dfd-84b6-9c5e1d6ad546" />
 
 ### 3d view with componets
-<img width="1073" height="758" alt="image" src="https://github.com/user-attachments/assets/e55f5028-5f4f-45ab-b294-89da5c8dcb1b" />
+<img width="962" height="743" alt="image" src="https://github.com/user-attachments/assets/00bfa517-2df6-4e2b-a6a9-3c82f5532c84" />
+
 
 
 ### I WILL BE PAYING FOR IT MYSELF
