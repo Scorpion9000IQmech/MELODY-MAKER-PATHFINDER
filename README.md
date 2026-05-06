@@ -19,7 +19,7 @@ I wanted to simply add buzzers at first but I thought of making some sort of mus
 ### 3d view with componets
 <img width="962" height="743" alt="image" src="https://github.com/user-attachments/assets/00bfa517-2df6-4e2b-a6a9-3c82f5532c84" />
 
-
+as shown on the pcb and the case, the board will be screwed in by 3mm diameter screws to secure it and be powered simply by the xiaorp4020 usb c cable
 
 ### I WILL BE PAYING FOR IT MYSELF
 ## BOM
